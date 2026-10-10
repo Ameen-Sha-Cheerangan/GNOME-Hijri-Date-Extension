@@ -1,4 +1,3 @@
----
 
 # Hijri-Date-Gnome-Extension
 [![Available on GNOME Extensions](https://img.shields.io/badge/GNOME%20Extensions-Available-brightgreen?logo=gnome)](https://extensions.gnome.org/extension/5995/hijri-date-extension/)
